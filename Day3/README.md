@@ -338,9 +338,15 @@ if( HD is None ):
 else:
     print("Hamming Distance = ", HD)
 ```
+##Python Implementation
 
-### [Solution 2](./Python/Shashankham.py)
-
+### [Solution](./Python/Shashankham.py)
+``` Python
+"""
+ * @author: Shashank Jain
+ * @date: 24/12/2018
+"""
+### [Solution](./Python/Shashankham.py)
 ``` Python
 """
  * @author: Shashank Jain
